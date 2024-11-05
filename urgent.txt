@@ -1,3 +1,7 @@
 Urgent hotfix to master branch
 Testing git Testing
+<<<<<<< HEAD
 testing 67
+=======
+Tested new feature
+>>>>>>> parent of 62f0039 (Revert "test commit")
